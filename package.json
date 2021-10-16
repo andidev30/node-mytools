@@ -1,0 +1,20 @@
+{
+  "name": "mylogging",
+  "version": "1.0.0",
+  "description": "CLI for look logging systems linux in folder /var/log.",
+  "bin": {
+    "mylogging": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "LOG"
+  ],
+  "author": "Andi",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.2.0"
+  }
+}
